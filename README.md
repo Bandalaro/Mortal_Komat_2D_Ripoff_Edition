@@ -1,12 +1,23 @@
-# Mortal_Komat_2D_Ripoff_Edition
-This project is a fun, Python-based game titled "Mortal Kombat Ripoff 2D Edition." It features an AI agent trained using Reinforcement Learning (RL) with the Proximal Policy Optimization (PPO) algorithm. The AI adapts to in-game scenarios, delivering an engaging gameplay experience as it learns and improves its strategies through continuous play.
+Mortal Kombat Ripoff 2D Edition
+Welcome to Mortal Kombat Ripoff 2D Edition — a nostalgic, retro-inspired fighting game that brings back the essence of classic Mortal Kombat! This 2D game features unique AI-powered characters, engaging environments, and a gameplay style reminiscent of old-school arcade fighters.
 
-Features:
+🕹️ Game Features
+Characters: Choose from three distinct characters:
 
-Python-based 2D fighting game mechanics.
-AI agent trained with the PPO algorithm for smart decision-making.
-Real-time learning and adaptation for more challenging gameplay.
-Customizable reward functions to fine-tune agent behavior.
-Modular codebase for easy expansion and feature integration.
-Technologies Used: Python, Reinforcement Learning (RL), PPO algorithm
+Archer: A swift and tactical long-range fighter
+Fighter: A balanced character with both offensive and defensive skills
+Shinobi: A stealthy warrior with fast, unpredictable moves
+Dynamic Backgrounds: Fight across 8 immersive backgrounds, each adding a unique atmosphere to the battlefield.
 
+AI-Powered Opponents: With AI using the Proximal Policy Optimization (PPO) algorithm, each opponent has its own fighting style and tactics, ensuring challenging and adaptive gameplay.
+
+📁 Assets
+All backgrounds and character assets should be placed in a folder named Assets for easy access and organization.
+
+🎮 How to Play
+Simply choose your fighter, pick a battleground, and dive into fast-paced combat action!
+
+🔧 Tech Stack
+Python: Game logic and mechanics
+Reinforcement Learning (PPO): AI that adapts to the player's fighting style for a challenging experience
+Pygame: 2D graphics and animations
